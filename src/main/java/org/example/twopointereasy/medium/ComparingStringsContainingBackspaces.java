@@ -1,4 +1,4 @@
-package org.example.TwoPointerMedium;
+package org.example.twopointereasy.medium;
 
 public class ComparingStringsContainingBackspaces {
 

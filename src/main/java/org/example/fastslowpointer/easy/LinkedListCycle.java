@@ -1,4 +1,4 @@
-package org.example.FastSlowPointer.Easy;
+package org.example.fastslowpointer.easy;
 
 public class LinkedListCycle {
 

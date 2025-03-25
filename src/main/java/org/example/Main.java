@@ -1,15 +1,7 @@
 package org.example;
 
-import org.example.FastSlowPointer.Easy.ListNode;
-import org.example.FastSlowPointer.Easy.MiddleLinkedList;
-import org.example.TwoPointerMedium.ComparingStringsContainingBackspaces;
-import org.example.TwoPointerMedium.DutchNationalFlag;
-import org.example.TwoPointerMedium.MinimumWindowSort;
-import org.example.TwoPointerMedium.QuadrupleSumTarget;
-import org.example.TwoPointerMedium.TripletSumCloseTarget;
-import org.example.TwoPointerMedium.TripletswithSmallerSum;
-
-import java.util.Arrays;
+import org.example.fastslowpointer.easy.ListNode;
+import org.example.fastslowpointer.easy.MiddleLinkedList;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.

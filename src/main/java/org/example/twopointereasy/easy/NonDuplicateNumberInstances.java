@@ -1,4 +1,4 @@
-package org.example.TwoPointerEasy;
+package org.example.twopointereasy.easy;
 
 public class NonDuplicateNumberInstances {
 
