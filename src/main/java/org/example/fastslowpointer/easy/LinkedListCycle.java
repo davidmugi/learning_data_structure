@@ -1,6 +1,6 @@
 package org.example.fastslowpointer.easy;
 
-public class LinkedListCycle {
+public class  LinkedListCycle {
 
     public boolean hasCycle(ListNode head) {
         // TODO: Write your code here
